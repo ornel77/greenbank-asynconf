@@ -1,7 +1,5 @@
 <script>
 	import FormEco from "$lib/components/FormEco.svelte";
-	
-
 </script>
 
 

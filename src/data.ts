@@ -27,9 +27,6 @@ export const cars: Parameters[] = [
     },
 ]
 
-export function getCars() {
-    return cars
-}
 
 export const energies: Parameters[] = [
     {
