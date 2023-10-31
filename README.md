@@ -1,6 +1,8 @@
+Bonjour, pour ce hackathon j'ai décidé de tester Svelte/ Sveltekit
+
 # Installer les package
 
-Bonjousr, après avoir cloner le projet faire :
+Après avoir cloner le repo faire :
 ```bash
 npm install
 ```
@@ -15,5 +17,6 @@ npm run dev
 
 L'application va se lancer sur le port 5173
 
+Bonne journée !
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
